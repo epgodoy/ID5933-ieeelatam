@@ -5,6 +5,7 @@ Este repositório contém os códigos dos módulos de comunicação e dados expe
 /*Adicionar link de acesso ao artigo após publicação*/
 
 Dados experimentais:
+
 Cada uma das abas da planilha (Lab P1, Lab P2, Lab P3, Quadra P1, Quadra P2 e Quadra p3) apresentam os dados coletados em cada um dos experimentos descritos no artigo.
 Para cada experimento são apresentados os seguintes dados:
 - valor de RSSI (dBm) transmitido por cada nó fixo (RSSI 1 , RSSI 2 e RSSI 3)
@@ -14,6 +15,7 @@ Para cada experimento são apresentados os seguintes dados:
 - coordenadas reais de uma posição 3D de teste de localização (Ponto X Y Z)
 
 Códigos dos módulos de comunicação:
+
 A solução é composta por 5 módulos de comunicação sem fio LoRa modelo ESP32 LoRa (V2) do fabricante Heltec Automation (https://heltec.org/project/wifi-lora-32/) conforme mostrado na Figura 1 do artigo. 
 Cada um dos código fonte compilados para esses 5 módulos estão disponíveis: 
 - Nó Concentrador fixo;
