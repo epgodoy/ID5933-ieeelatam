@@ -6,7 +6,7 @@ Este repositório contém os códigos dos módulos de comunicação e dados expe
 
 Dados experimentais:
 
-Cada uma das abas da planilha (Lab P1, Lab P2, Lab P3, Quadra P1, Quadra P2 e Quadra p3) apresentam os dados coletados em cada um dos experimentos descritos no artigo.
+Cada uma das abas da planilha (Lab P1, Lab P2, Lab P3, Quadra P1, Quadra P2 e Quadra P3) apresentam os dados coletados em cada um dos experimentos descritos no artigo.
 Para cada experimento são apresentados os seguintes dados:
 - valor de RSSI (dBm) transmitido por cada nó fixo (RSSI 1 , RSSI 2 e RSSI 3)
 - valor da altitude (m) do nó móvel localizável (Altitude)
