@@ -16,7 +16,9 @@ Para cada experimento são apresentados os seguintes dados:
 
 Códigos dos módulos de comunicação:
 
-A solução é composta por 5 módulos de comunicação sem fio LoRa modelo ESP32 LoRa (V2) do fabricante Heltec Automation (https://heltec.org/project/wifi-lora-32/) conforme mostrado na Figura 1 do artigo. 
+A solução é composta por 5 módulos de comunicação sem fio LoRa modelo ESP32 LoRa (V2) do fabricante Heltec Automation (https://heltec.org/project/wifi-lora-32/) conforme mostrado na Figura 1 do artigo.
+![Fig 1](https://user-images.githubusercontent.com/31543410/142046715-6df9f88e-81d3-4c3d-ace0-0b51d541be80.png)
+
 Cada um dos código fonte compilados para esses 5 módulos estão disponíveis: 
 - Nó Concentrador fixo;
 - 3 Nós Localizadores fixos (LocalizadorF1, F2 e F3);
