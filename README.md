@@ -23,3 +23,5 @@ Cada um dos código fonte compilados para esses 5 módulos estão disponíveis:
 - Nó Concentrador fixo;
 - 3 Nós Localizadores fixos (LocalizadorF1, F2 e F3);
 - Nó Localizável móvel;
+
+A licença é GPL-3.0. Em caso de uso, cite nosso trabalho.
