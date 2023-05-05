@@ -2,7 +2,7 @@
 Arquivos e dados adicionais relacionados ao artigo ID5933 - IEEE Latin America Transactions
 
 Este repositório contém os códigos dos módulos de comunicação e dados experimentais coletados e utilizados no artigo "Improved Indoor 3D Localization using LoRa Wireless Communication" (ID5933) do IEEE Latin America Transactions:
--https://latamt.ieeer9.org/index.php/transactions/article/view/5933
+-https://latamt.ieeer9.org/index.php/transactions/article/view/5933         
 -https://ieeexplore.ieee.org/document/9667147
 
 Dados experimentais:
@@ -25,5 +25,5 @@ Cada um dos código fonte compilados para esses 5 módulos estão disponíveis:
 - 3 Nós Localizadores fixos (LocalizadorF1, F2 e F3);
 - Nó Localizável móvel;
 
-A licença é GPL-3.0. Em caso de uso, cite nosso trabalho.
+A licença é GPL-3.0. Em caso de uso, cite nosso trabalho.     
 J. A. Micheletti and E. P. Godoy, "Improved Indoor 3D Localization using LoRa Wireless Communication," in IEEE Latin America Transactions, vol. 20, no. 3, pp. 481-487, March 2022, doi: 10.1109/TLA.2022.9667147.
